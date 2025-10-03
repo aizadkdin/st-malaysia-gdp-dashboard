@@ -565,7 +565,7 @@ try:
         color="gdp_val",
         featureidkey="properties.shapeName",
         mapbox_style="carto-darkmatter",
-        zoom=5.1,
+        zoom=4.9,
         center={"lat":4.1, "lon":109.2},
         opacity=0.4,
         color_continuous_scale="Viridis",
