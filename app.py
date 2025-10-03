@@ -566,7 +566,7 @@ try:
         featureidkey="properties.shapeName",
         mapbox_style="carto-darkmatter",
         zoom=5.0,
-        center={"lat":4.1, "lon":109.2},
+        center={"lat":4.1, "lon":109.3},
         opacity=0.4,
         color_continuous_scale="Viridis",
         labels={'gdp_val': f"{('GDP' if gdp_type=='gdp1' else 'GDP per capita')} (MYR Million)"}
